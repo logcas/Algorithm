@@ -54,3 +54,20 @@
 |557|	反转字符串中的单词 III|	简单|√|
 
 实际上总体的难度还是偏向简单类型，跟剑指Offer差不多。
+
+## 常见算法集
+* [六一儿童节](https://github.com/logcas/Algorithm/blob/master/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/%E5%85%AD%E4%B8%80%E5%84%BF%E7%AB%A5%E8%8A%82.js)
+* [大数相乘](https://github.com/logcas/Algorithm/blob/master/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/大数相乘.js)
+* [最大乘积](https://github.com/logcas/Algorithm/blob/master/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/最大乘积.js)
+* [机器人的运动范围](https://github.com/logcas/Algorithm/blob/master/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/机器人的运动范围.js)
+* [矩阵中的路径](https://github.com/logcas/Algorithm/blob/master/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/矩阵中的路径.js)
+* [O(n)复杂度下求无序数组中第K大的元素](https://github.com/logcas/Algorithm/blob/master/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/无序数组中第k大的元素.js)
+
+## 经典排序算法
+* [冒泡排序](https://github.com/logcas/Algorithm/blob/master/排序算法/冒泡排序.js)
+* [选择排序](https://github.com/logcas/Algorithm/blob/master/排序算法/选择排序.js)
+* [直接插入排序](https://github.com/logcas/Algorithm/blob/master/排序算法/直接插入排序.js)
+* [希尔排序](https://github.com/logcas/Algorithm/blob/master/排序算法/希尔排序.js)
+* [堆排序](https://github.com/logcas/Algorithm/blob/master/排序算法/堆排序.js)
+* [归并排序](https://github.com/logcas/Algorithm/blob/master/排序算法/归并排序.js)
+* [快速排序](https://github.com/logcas/Algorithm/blob/master/排序算法/快速排序.js)
