@@ -18,6 +18,9 @@
 * [快速排序](https://github.com/logcas/Algorithm/blob/master/排序算法/快速排序.js)
 * [计数排序](https://github.com/logcas/Algorithm/blob/master/排序算法/计数排序.js)
 
+## 查找算法
+* [二分查找](https://github.com/logcas/Algorithm/blob/master/查找算法/二分查找.js)
+
 ## 腾讯精选50题
 |#|题名|难度|已完成|
 |--|--|--|--|
