@@ -21,6 +21,9 @@
 ## 查找算法
 * [二分查找](https://github.com/logcas/Algorithm/blob/master/查找算法/二分查找.js)
 
+## 树
+* [AVL树](https://github.com/logcas/Algorithm/blob/master/树/AVL树.js)
+
 ## 腾讯精选50题
 |#|题名|难度|已完成|
 |--|--|--|--|
