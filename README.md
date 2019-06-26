@@ -28,6 +28,16 @@
 ## 树
 * [AVL树](https://github.com/logcas/Algorithm/blob/master/树/AVL树.js)
 
+## 字节跳动专题
+### 字符串系列
+* [无重复的最长子串](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/0-无重复最长子串.md)
+* [最长公共前缀](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/1-最长公共前缀.md)
+* [字符串的排列](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/2-字符串的排列.md)
+* 字符串相乘（做过两次，太麻烦了，这次没做）
+* [反转字符串里的单词](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/4-反转字符串里的单词.md)
+* [简化路径](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/5-简化路径.md)
+* [复原IP地址](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/6-复原IP地址.md)
+
 ## 腾讯精选50题
 |#|题名|难度|已完成|
 |--|--|--|--|
