@@ -37,6 +37,8 @@
 * [反转字符串里的单词](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/4-反转字符串里的单词.md)
 * [简化路径](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/5-简化路径.md)
 * [复原IP地址](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/6-复原IP地址.md)
+* [三数之和](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/7-三数之和.md)
+* [岛屿的最大面积](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/8-岛屿的最大面积.md)
 
 ## 腾讯精选50题
 |#|题名|难度|已完成|
