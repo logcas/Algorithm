@@ -39,6 +39,10 @@
 * [复原IP地址](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/6-复原IP地址.md)
 * [三数之和](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/7-三数之和.md)
 * [岛屿的最大面积](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/8-岛屿的最大面积.md)
+* [搜索旋转排序数组](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/9-搜索旋转排序数组.md)
+* [最长连续递增序列](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/10-最长连续递增序列.md)
+* [数组中的第K个最大元素](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/11-数组中的第K个最大元素.md)
+
 
 ## 腾讯精选50题
 |#|题名|难度|已完成|
