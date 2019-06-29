@@ -42,6 +42,9 @@
 * [搜索旋转排序数组](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/9-搜索旋转排序数组.md)
 * [最长连续递增序列](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/10-最长连续递增序列.md)
 * [数组中的第K个最大元素](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/11-数组中的第K个最大元素.md)
+* [买股票的最佳时机](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/12-买股票的最佳时机.md)
+* [买股票的最佳时机2](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/13-买股票的最佳时机2.md)
+* [最大正方形](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/14-最大正方形.md)
 
 
 ## 腾讯精选50题
