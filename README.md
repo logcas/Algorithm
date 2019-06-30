@@ -29,7 +29,7 @@
 * [AVL树](https://github.com/logcas/Algorithm/blob/master/树/AVL树.js)
 
 ## 字节跳动专题
-### 字符串系列
+### 字符串
 * [无重复的最长子串](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/0-无重复最长子串.md)
 * [最长公共前缀](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/1-最长公共前缀.md)
 * [字符串的排列](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/2-字符串的排列.md)
@@ -37,15 +37,20 @@
 * [反转字符串里的单词](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/4-反转字符串里的单词.md)
 * [简化路径](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/5-简化路径.md)
 * [复原IP地址](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/6-复原IP地址.md)
+
+### 数组与排序
 * [三数之和](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/7-三数之和.md)
 * [岛屿的最大面积](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/8-岛屿的最大面积.md)
 * [搜索旋转排序数组](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/9-搜索旋转排序数组.md)
 * [最长连续递增序列](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/10-最长连续递增序列.md)
 * [数组中的第K个最大元素](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/11-数组中的第K个最大元素.md)
+
+### 动态或贪心
 * [买股票的最佳时机](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/12-买股票的最佳时机.md)
 * [买股票的最佳时机2](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/13-买股票的最佳时机2.md)
 * [最大正方形](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/14-最大正方形.md)
-
+* [最大子序和](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/15-最大子序和.md)
+* [三角形的最小路径和](https://github.com/logcas/Algorithm/blob/master/LeetCode/Bytedance/16-三角形的最小路径和.md)
 
 ## 腾讯精选50题
 |#|题名|难度|已完成|
