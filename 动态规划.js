@@ -73,3 +73,73 @@ function bagProblem2() {
 }
 
 console.log(bagProblem2());
+
+//
+// 早矩阵中找一条最短的路径，每次只能向右或向下走
+//
+//  矩阵：
+//  [1, 3, 5, 9]
+//  [2, 1, 3, 4]
+//  [5, 2, 6, 7]
+//  [6, 8, 4, 3]
+
+const map = [
+  [1, 3, 5, 9],
+  [2, 1, 3, 4],
+  [5, 2, 6, 7],
+  [6, 8, 4, 3],
+];
+
+// 状态转移表法
+function shortestRoad() {
+  const state = new Array(map.length);
+  for(let i = 0;i < state.length; ++i) {
+    state[i] = new Array(map[i].length);
+  }
+
+  for(let i = 0;i < map.length; ++i) {
+    if(i > 0) state[0][i] = state[0][i - 1] + map[0][i];
+    else state[0][i] = map[0][i];
+  }
+
+  for(let i = 0;i < map.length; ++i) {
+    if(i > 0) state[i][0] = state[i - 1][0] + map[i][0];
+    else state[i][0] = map[i][0];
+  }
+
+  for(let i = 1;i < map.length; ++i) {
+    for(let j = 1; j < map.length; ++j) {
+      state[i][j] = map[i][j] + Math.min(state[i - 1][j], state[i][j - 1]);
+    }
+  }
+
+  return state[map.length - 1][map.length - 1];
+}
+
+console.log(shortestRoad());
+
+// 状态方程法
+// 对于上面的问题
+// 显然有 minRoad[i][j] = map[i][j] + Math.min(minRoad[i - 1][j], minRoad[i][j - 1])
+
+const tmpState = new Array(map.length);
+for(let i = 0;i < map.length; ++i) {
+  tmpState[i] = new Array(map.length).fill(-1);
+}
+function minRoad(i, j) {
+  if(i === 0 && j === 0) return map[i][j];
+  if(tmpState[i][j] >= 0) return tmpState[i][j];
+  let topRoad = Infinity;
+  if(i - 1 >= 0) {
+    topRoad = minRoad(i - 1, j);
+  }
+  let leftRoad = Infinity;
+  if(j - 1 >= 0) {
+    leftRoad = minRoad(i, j - 1);
+  }
+  let cur = map[i][j] + Math.min(topRoad, leftRoad);
+  tmpState[i][j] = cur;
+  return cur;
+}
+
+console.log(minRoad(map.length - 1, map.length - 1));
