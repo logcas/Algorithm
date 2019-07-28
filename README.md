@@ -11,6 +11,9 @@
 * [机器人的运动范围](https://github.com/logcas/Algorithm/blob/master/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/机器人的运动范围.js)
 * [矩阵中的路径](https://github.com/logcas/Algorithm/blob/master/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/矩阵中的路径.js)
 * [O(n)复杂度下求无序数组中第K大的元素](https://github.com/logcas/Algorithm/blob/master/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/无序数组中第k大的元素.js)
+* [Z字形打印矩阵](https://github.com/logcas/Algorithm/blob/master/常见算法/Z字形打印矩阵.js)
+* [回旋打印方阵](https://github.com/logcas/Algorithm/blob/master/常见算法/回旋打印方阵.js)
+* [复杂链表的复制](https://github.com/logcas/Algorithm/blob/master/常见算法/复杂链表的复制.js)
 
 ## 经典排序算法
 * [冒泡排序](https://github.com/logcas/Algorithm/blob/master/排序算法/冒泡排序.js)
